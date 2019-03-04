@@ -1,13 +1,13 @@
-# [List With Esin - Real Estate Consulting](www.listwithesin.com)
+# [List With Esin - Real Estate Consulting](http://www.listwithesin.com)
 
-[List With Esin - Real Estate Consulting](www.listwithesin.com) is a one page portfolio marketing site for [List With Esin](www.listwithesin.com) created from a [Start Bootstrap](http://startbootstrap.com/) template
-by [Derin Works LLC - Software Consulting](www.derinworksllc.com)
+[List With Esin - Real Estate Consulting](http://www.listwithesin.com) is a one page portfolio marketing site for [List With Esin](http://www.listwithesin.com) created from a [Start Bootstrap](http://startbootstrap.com/) template
+by [Derin Works LLC - Software Consulting](https://www.derinworksllc.com)
 
 ## Download and Installation
 
 To begin development on this site:
 * Clone the repo: `git clone https://github.com/ozguramac/listwithesin.github.io.git`
-* [Fork, Clone, or Download on GitHub](github.com/ozguramac/listwithesin.github.io)
+* [Fork, Clone, or Download on GitHub](https://github.com/ozguramac/listwithesin.github.io)
 
 ## Usage
 
@@ -17,13 +17,13 @@ After downloading, simply edit the HTML and CSS files included with the template
 
 ## Bugs and Issues
 
-Have a bug or an issue with the code? [Open a new issue](github.com/ozguramac/listwithesin.github.io/issues) here on GitHub.
+Have a bug or an issue with the code? [Open a new issue](https://github.com/ozguramac/listwithesin.github.io/issues) here on GitHub.
 
 ## About
 
-Having worked in sales for most of her career, Esin has combined all her expertise into [List With Esin - Real Estate Consulting](www.listwithesin.com). She takes pride in the relationships she builds and always works relentlessly on the client's behalf to help them achieve their goals.
+Having worked in sales for most of her career, Esin has combined all her expertise into [List With Esin - Real Estate Consulting](http://www.listwithesin.com). She takes pride in the relationships she builds and always works relentlessly on the client's behalf to help them achieve their goals.
 
-At [Derin Works LLC - Software Consulting](www.derinworksllc.com), we believe in producing high-end quality, fully-tested software units based on constant collaboration with our customers to deduce exact specifications. We strive to understand the business workflows to design custom-tailored software to fit the needs from management/owner level to end-users of our clients.
+At [Derin Works LLC - Software Consulting](https://www.derinworksllc.com), we believe in producing high-end quality, fully-tested software units based on constant collaboration with our customers to deduce exact specifications. We strive to understand the business workflows to design custom-tailored software to fit the needs from management/owner level to end-users of our clients.
 
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
